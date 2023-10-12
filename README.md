@@ -6,7 +6,7 @@
 
 Summary writing is an essential skill, pivotal for enhancing reading comprehension, especially among second language learners and students with learning disabilities. The goal of this Kaggle competition, hosted by CommonLit, was to develop a model that can effectively evaluate the quality of summaries written by students from grades 3-12.
 
-This repository hosts my solution that achieved a near top score. Throughout the competition, I navigated through different strategies and, in hindsight, learned immensely from the choices I made.
+This repository hosts my solution that achieved a near-top score. Throughout the competition, I navigated through different strategies and, in hindsight, learned immensely from the choices I made.
 
 ## 🎯 Competition Objective
 
@@ -26,8 +26,8 @@ CommonLit, the competition host, is a nonprofit education tech organization stri
 
 ## 📦 Repository Contents
 
-- `solution.ipynb`: The Jupyter notebook containing my best solution.
-- `notebooks/`: Other worthy notebooks.
+- `solution.ipynb`: The Jupyter notebook containing my best leaderboard solution([see on kaggle](https://www.kaggle.com/code/oluwatobibetiku/best-leaderboard-solution?scriptVersionId=145808879)).
+- `notebooks/`: Other worthy notebooks (including the unselected notebook with my best score on the private leaderboard. [Check Here](https://www.kaggle.com/code/oluwatobibetiku/solution-notebook?scriptVersionId=145353069)).
 - `README.md`: This README file.
 
 ## 💡 Insights & Learnings
@@ -38,7 +38,7 @@ The competition taught me a lot:
 
 ## 🙌 Acknowledgments
 
-Huge thanks to CommonLit for hosting this enlightening competition. The journey was filled with learnings and challenges, pushing me closer to my goal of becoming a Kaggle Grandmaster. I hope my solution provides valuable insights to fellow Kagglers and NLP enthusiasts.
+Huge thanks to CommonLit for hosting this enlightening competition. The journey was filled with learnings and challenges, pushing me closer to my goal of becoming better at machine learning. I hope my solution provides valuable insights to fellow Kagglers and NLP enthusiasts.
 
 ## 🖖 Future Endeavors
 
@@ -46,7 +46,7 @@ With this competition under my belt, I'm optimistic and excited about participat
 
 ## 📬 Contact
 
-For any questions or discussions, feel free to raise an issue or reach out to me directly on Kaggle/[[Oluwatobi Betiku](https://www.kaggle.com/oluwatobibetiku)] or LinkedIn/[oluwatobi-betiku](https://www.linkedin.com/in/oluwatobi-betiku-oluwatobi/).
+For any questions or discussions, feel free to reach out to me directly on Kaggle/[Oluwatobi Betiku](https://www.kaggle.com/oluwatobibetiku) or LinkedIn/[oluwatobi-betiku](https://www.linkedin.com/in/oluwatobi-betiku-oluwatobi/).
 
 ---
 
